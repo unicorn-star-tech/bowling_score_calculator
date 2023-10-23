@@ -6,8 +6,8 @@
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Known Issues](#known-issues)
-4. [Future Optimizations](#future-optimizations)
-5. [Testing](#testing)
+4. [Testing](#testing)
+5. [Future Optimizations](#future-optimizations)
 
 ## Introduction
 
